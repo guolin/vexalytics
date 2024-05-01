@@ -1,0 +1,21 @@
+{
+  "name": "vexevent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^4.0.0",
+    "csv-parser": "^3.0.0",
+    "flat": "^6.0.1",
+    "json2csv": "^6.0.0-alpha.2",
+    "node-persist": "^4.0.1",
+    "robotevents": "git+https://github.com/guolin/robotevents.git#feature_add_cookie",
+    "xlsx": "^0.18.5"
+  }
+}
