@@ -1,7 +1,10 @@
 /archived
+
+# 数据缓存
 /.node-persist
 
-public
+# 数据文件
+/public
 
 # Logs
 logs
